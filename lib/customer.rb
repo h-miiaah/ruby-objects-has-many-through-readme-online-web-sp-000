@@ -8,5 +8,5 @@ class Customer
     @age = age
     @@all << self
   end
-  
+
 end
